@@ -26,7 +26,12 @@ Q-Tac-Toe leverages Q-learning, a popular RL algorithm, to train an AI agent cap
 
    ```bash
    git clone [repository-url]
+
+2. Install the required dependencies:
+   ```bash
    pip install numpy
+3. Run the game:
+   ```bash
    python3 Q-Tac-Toe.py
 
 ## How to Play
